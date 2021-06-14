@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://www.nature.com/immersive/d41586-021-00095-y/assets/3TP4N718ac/2021-01-xx_jan-iom_tree-of-life_sh-1080x1440.jpeg");
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg");
     font-family: 'Roboto', sans-serif;
     color: #eaac8b;
     text-align: center;
@@ -12,7 +12,7 @@ body {
   }
   
   p{ 
-    text-allign: center;
+    text-align: center;
     /* display: none */
   }
   
