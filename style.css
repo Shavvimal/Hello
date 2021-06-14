@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://www.nature.com/immersive/d41586-021-00095-y/assets/3TP4N718ac/2021-01-xx_jan-iom_tree-of-life_sh-1080x1440.jpeg");
+    font-family: 'Roboto', sans-serif;
+    color: #eaac8b;
+    text-align: center;
+    line-height: 1;
+    font-size: 16pt;
+    }
+  
+  main {
+    background: rgba(255, 255, 255, 0.8)
+  }
+  
+  p{ 
+    text-allign: center;
+    /* display: none */
+  }
+  
+  #head {
+    color:blue;
+    font-family: monospace;
+    text-shadow: 2px 2px 5px greenyellow;
+  }
+  
+  .blue-border {
+    border: 2px solid gold
+  }
